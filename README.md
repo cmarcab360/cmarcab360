@@ -9,3 +9,6 @@ programación como HTML, CSS, JavaScript y PHP, entre otros. Mi objetivo es apli
 - **Frontend:** bootstrap, CSS, SASS
 - **Base de Datos:** PostgreSQL, MySQL  
 - **Herramientas:** Git
+
+## 🌍 Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/camilamartinez20)  
