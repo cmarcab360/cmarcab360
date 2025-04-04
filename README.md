@@ -1,7 +1,6 @@
 # 👋 !Hola! Soy Camila
 
-Soy una desarrolladora web recientemente graduada. He adquirido habilidades en lenguajes de
-programación como HTML, CSS, JavaScript y PHP, entre otros. Mi objetivo es aplicar mis conocimientos y seguir aprendiendo para ofrecer soluciones web innovadoras y efectivas. Estoy en busca de oportunidades para contribuir a proyectos desafiantes y seguir desarrollando mis habilidades en el campo del desarrollo web.
+Soy una desarrolladora web con experiencia en HTML, CSS, JavaScript y PHP, entre otros lenguajes. Manejo el desarrollo de soluciones web innovadoras y efectivas, aplicando mis conocimientos para crear interfaces dinámicas y funcionales. Estoy en constante aprendizaje para optimizar mis habilidades y enfrentar proyectos desafiantes con soluciones eficientes. Busco oportunidades donde pueda aportar mi experiencia y potenciar el desarrollo web con ideas innovadoras y estrategias avanzadas.
 
 # 🔥 Mis Tecnologías
 - **Lenguajes:** JavaScript, PHP, Java
